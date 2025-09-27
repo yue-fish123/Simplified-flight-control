@@ -6,7 +6,7 @@
 2. 无人机采用有刷电机，电池为1s电池
 
 ## 原理图
-
+![示例图]([https://github.com/yue-fish123/Simplified-flight-control/blob/main/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202025-09-27%20221121.png])
 ## PCB   
   
 
